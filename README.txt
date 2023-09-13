@@ -1,0 +1,1 @@
+See file SaveImages.py for code to reproduce all three tiers of MODIS images references in the paper
